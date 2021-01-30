@@ -1,0 +1,21 @@
+.AddTask{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+    background-color: antiquewhite;
+}
+
+.addField{
+    display: flex;
+    width: 70%;
+}
+
+.addField > *{
+  margin: 1%;
+}
+
+h1{
+    color: white;
+}

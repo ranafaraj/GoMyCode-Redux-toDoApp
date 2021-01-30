@@ -1,0 +1,13 @@
+.ListTask{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+}
+
+.filter_btns{
+  width: 50%;
+  justify-content: space-around;
+  display: flex;
+}
